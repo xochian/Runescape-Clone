@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/-GameDevClub/Desktop/Hydra Terrain/Assets/Try1(8-4).unity
+  isLoaded: 1
+  isActive: 1
